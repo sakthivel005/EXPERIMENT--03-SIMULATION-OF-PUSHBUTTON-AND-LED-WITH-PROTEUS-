@@ -72,8 +72,9 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
-NAME: R.SAKTHIVEL
-REG NO:212222100044
+##NAME: R.SAKTHIVEL
+##REG NO:212222100044
+
 #include "main.h"
 
 void SystemClock_Config(void);
@@ -167,12 +168,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
-![Screenshot 2023-04-27 154440](https://user-images.githubusercontent.com/120550359/234833478-6267ee99-4345-408c-9aa4-911825bb1fcc.png)
+
+
 
 
 ##Proteus layout(Add pdf screen shot of circuit here)
  
- ![Screenshot 2023-04-27 154407](https://user-images.githubusercontent.com/120550359/234833493-8e6f14b1-53ee-4900-b141-9fc4bc4b045b.png)
+ 
 
  
  

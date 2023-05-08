@@ -172,9 +172,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![Screenshot 2023-04-27 155524](https://user-images.githubusercontent.com/120550359/234835780-a33904c7-39f2-4b9c-ad9e-23a222137ecb.png)
 
 
+When LED is OFF
 
+![LED off](https://user-images.githubusercontent.com/120550359/236731066-bb9e4a36-7ede-4dac-b4d1-f70dcad26d4f.png)
 
-##Proteus layout(Add pdf screen shot of circuit here)
+When LED is ON
+## Proteus layout(Add pdf screen shot of circuit here)
  
 
 ![Screenshot 2023-04-27 155542](https://user-images.githubusercontent.com/120550359/234835838-9cd34f39-e5b9-432f-9b9c-526828e2de53.png)
